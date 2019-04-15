@@ -1,0 +1,7 @@
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,14 @@
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\obj\Debug\Calculadora_tp.Properties.Resources.resources
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\obj\Debug\Calculadora_tp.FormCalculadora.resources
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\bin\Debug\Calculadora_tp.exe.config
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\bin\Debug\Calculadora_tp.exe
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\bin\Debug\Calculadora_tp.pdb
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\bin\Debug\Entidades.dll
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\bin\Debug\Entidades.pdb
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\bin\Debug\Entidades.dll.config
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\obj\Debug\Calculadora_tp.exe
+C:\Users\Alan Debonis\Desktop\Trabajo - Facultad todo\Facultad\Csharp-19\Calculadora_tp\MiCaluladora\obj\Debug\Calculadora_tp.pdb
